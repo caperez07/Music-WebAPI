@@ -1,0 +1,13 @@
+{
+  "version": 2,
+  "dgSpecHash": "1qUGudBn7eCOB66FqXobQQ7P2RIt1WrVSTDQ7vdCLITf0FLVHWvbq4pU7vyX6WrBrNmBZmXwuS+nwcMeaX6EMA==",
+  "success": true,
+  "projectFilePath": "C:\\Users\\FH204\\Desktop\\Semana9\\semana9-programadeestagio\\Arquitetura3Camadas\\BLL\\BLL.csproj",
+  "expectedPackageFiles": [
+    "C:\\Users\\FH204\\.nuget\\packages\\microsoft.extensions.configuration\\6.0.1\\microsoft.extensions.configuration.6.0.1.nupkg.sha512",
+    "C:\\Users\\FH204\\.nuget\\packages\\microsoft.extensions.configuration.abstractions\\6.0.0\\microsoft.extensions.configuration.abstractions.6.0.0.nupkg.sha512",
+    "C:\\Users\\FH204\\.nuget\\packages\\microsoft.extensions.primitives\\6.0.0\\microsoft.extensions.primitives.6.0.0.nupkg.sha512",
+    "C:\\Users\\FH204\\.nuget\\packages\\system.runtime.compilerservices.unsafe\\6.0.0\\system.runtime.compilerservices.unsafe.6.0.0.nupkg.sha512"
+  ],
+  "logs": []
+}
